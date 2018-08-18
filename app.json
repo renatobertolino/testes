@@ -1,0 +1,8 @@
+{
+  "name": "GA - Solutions - Acripel Back",
+  "description": "GA - Solutions - Acripel Back",
+  "repository": "https://github.com/fabioxd20/ga-solutions-acripel-back",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
